@@ -1,7 +1,7 @@
 import 'dart:async' show Future, StreamController;
 import 'dart:ui' as ui show Codec;
 
-import 'package:cached_network_image/src/image_provider/multi_image_stream_completer.dart';
+import 'package:cached_network_image_2/src/image_provider/multi_image_stream_completer.dart';
 import 'package:cached_network_image_platform_interface/cached_network_image_platform_interface.dart'
     show ErrorListener, ImageRenderMethodForWeb;
 import 'package:cached_network_image_platform_interface/cached_network_image_platform_interface.dart'
