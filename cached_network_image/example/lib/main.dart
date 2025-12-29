@@ -11,7 +11,7 @@ void main() {
   runApp(
     BaseflowPluginExample(
       pluginName: 'CachedNetworkImage',
-      githubURL: 'https://github.com/Baseflow/flutter_cached_network_image',
+      githubURL: 'https://github.com/arham-anees/flutter_cached_network_image_2',
       pubDevURL: 'https://pub.dev/packages/cached_network_image',
       pages: [
         BasicContent.createPage(),
