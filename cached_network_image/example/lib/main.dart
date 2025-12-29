@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:baseflow_plugin_template/baseflow_plugin_template.dart';
-import 'package:cached_network_image/cached_network_image.dart';
+import 'package:cached_network_image_2/cached_network_image_2.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_blurhash/flutter_blurhash.dart';
 
@@ -11,7 +11,7 @@ void main() {
   runApp(
     BaseflowPluginExample(
       pluginName: 'CachedNetworkImage',
-      githubURL: 'https://github.com/Baseflow/flutter_cached_network_image',
+      githubURL: 'https://github.com/arham-anees/flutter_cached_network_image_2',
       pubDevURL: 'https://pub.dev/packages/cached_network_image',
       pages: [
         BasicContent.createPage(),
